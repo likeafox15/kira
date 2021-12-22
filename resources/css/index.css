@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: rgb(48, 163, 192);
+    font-weight: normal;
+
+  }
+   
+   
+  p, 
+  li {
+    font-size: 16px;
+    color:dimgray;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+
+  h2{
+      color:rgba(48, 163, 192);
+      font-weight: normal;
+  }
+
+  h3{
+      color:rgba(78, 173, 197, 0.692);
+      font-weight: normal;
+
+  }
+
+  #kira {
+      border-radius: 12px;
+      width: 250px;
+      height: auto;
+      margin-left: 22px;
+
+  }
